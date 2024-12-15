@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+// Link : https://www.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1
+
 public class ZigZag {
     public void zigZag(int a[], int n){
         // Code your solution here.
